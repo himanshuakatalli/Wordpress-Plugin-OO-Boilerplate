@@ -7,8 +7,8 @@ class PREFIX_Plugin extends PREFIX_Container {
 	public static $container = null;
 
 	public function getPluginInstance () {
-		if (null == self::$instance) self::$instance = new self;
-		return self::$instance;
+		if (null == self::$container) self::$container = new self;
+		return self::$container;
 	}
 
 	public function run () {
