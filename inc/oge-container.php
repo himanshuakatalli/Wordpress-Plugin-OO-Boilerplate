@@ -2,7 +2,7 @@
 /**
 *
 */
-class OGE_Container implements ArrayAccess {
+class PREFIX_Container implements ArrayAccess {
 
 	protected $contents;
 

@@ -8,6 +8,6 @@
  License: Open License
  */
 
-$plugin = require "./inc/oge-bootstrap.php";
+$plugin = require "./inc/prefix-bootstrap.php";
 
 $plugin->run();

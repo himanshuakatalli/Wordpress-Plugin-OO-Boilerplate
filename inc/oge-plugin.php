@@ -2,7 +2,7 @@
 /**
 *
 */
-class OGE_Plugin extends OGE_Container {
+class PREFIX_Plugin extends PREFIX_Container {
 
 	public static $container = null;
 

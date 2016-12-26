@@ -2,7 +2,7 @@
 /**
 *
 */
-class OGE_AutoLoad
+class PREFIX_AutoLoad
  {
 	public static function register() {
 		if (version_compare(phpversion(), '5.3.0', '>=')) {
