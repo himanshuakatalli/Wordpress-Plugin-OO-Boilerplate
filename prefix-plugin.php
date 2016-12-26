@@ -1,10 +1,10 @@
 <?php
 /*
- Plugin Name: Outgrow Calc Embed Plugin and Lead Form
- Plugin URI: https://github.com/himanshuakatalli/outgrow-embed-plugin
- Description: Outgrow plugin to embed calculator dynamically on a fetched page and generating lead via a simple form.
- Author: Himanshu Singh
- Author URI: https://github.com/himanshuakatalli
+ Plugin Name: Your plugin name goes here
+ Plugin URI: Your plugin URI
+ Description: Your plugin description.
+ Author: Author name
+ Author URI: Author URI
  License: Open License
  */
 
