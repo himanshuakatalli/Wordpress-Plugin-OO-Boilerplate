@@ -2,7 +2,7 @@
 
 namespace Bootstrap;
 
-class PrefixPluginContainer implements ArrayAccess {
+class PrefixPluginContainer implements \ArrayAccess {
 
 	protected $contents;
 
