@@ -1,0 +1,14 @@
+{
+    "name": "himanshu/wordpress-oo-plugin-boilerplate",
+    "description": "Boilerplate for developing a wordpress plugin following object oriented methodology.",
+    "type": "composer-plugin",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "Himanshu Singh",
+            "email": "himanshu.singh@venturepact.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
